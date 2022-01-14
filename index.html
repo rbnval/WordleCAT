@@ -1,8 +1,10 @@
-<html lang="en">
+<html lang="ca" translate="no">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name=“viewport” content=”initial-scale=1, viewport-fit=cover”>
+
 
     <title>WordleCAT - Un mot diari</title>
     <meta name="description" content="Endevina el mot amagat en 6 intents. Cada dia hi ha un nou mot per endevinar.">
@@ -150,12 +152,11 @@
     <script>
         (function () {
             // Defining the hash before the main bundle allows the bundle access window.hash
-            window.trobamots = window.trobamots || {};
-            window.trobamots.hash = 'v010';
+            window.wordle = window.wordle || {};
+            window.wordle.hash = 'v1.2';
         })();
     </script>
-    <script src="main.v010.js?id=01"></script>
+    <script src="main.js?v1.2"></script>
     <game-app></game-app>
 </body>
-
 </html>

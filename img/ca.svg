@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="22px" viewBox="0 0 27 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ca</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="27" height="22" rx="3"></rect>
+    </defs>
+    <g id="WordleCAT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ca">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                <g transform="translate(13.500000, 11.000000) rotate(-180.000000) translate(-13.500000, -11.000000) ">
+                    <rect id="Rectangle" fill="#FFC400" x="0" y="0" width="27" height="22"></rect>
+                    <polygon id="Path" fill="#C60A1D" points="27 2.46551724 27 4.74137931 0 4.74137931 0 2.46551724"></polygon>
+                    <polygon id="Path" fill="#C60A1D" points="27 7.39655172 27 9.67241379 0 9.67241379 0 7.39655172"></polygon>
+                    <polygon id="Path" fill="#C60A1D" points="27 12.5172414 27 14.7931034 0 14.7931034 0 12.5172414"></polygon>
+                    <polygon id="Path" fill="#C60A1D" points="27 17.2586207 27 19.5344828 0 19.5344828 0 17.2586207"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
